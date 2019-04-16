@@ -1,0 +1,241 @@
+C:\Users\william\AppData\Local\Temporary Projects\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenPrincipal.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerClient.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerClient.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRechercherClient.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierClient.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerClient.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenlisterClientCritere.resources
+C:\Users\PETIT\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+C:\Users\PETIT\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+C:\Users\PETIT\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenConnection.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRemboursement.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.enregistrercompte.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerTransaction.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertransactioncritere.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertracabilite.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenlistertracabilitecritere.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerpret.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterpretcritere.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisteuractif.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisateurInactif.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenrechercher.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercompte.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercomptecritere.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.cs
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.Designer.cs
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenPrincipal.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenblocquer.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiver.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fendepot.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenretrait.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenpret.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenrechercherpret.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenvirement.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiverutilisateur.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenBloquerUtilisateur.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerUtilisateur.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierUtilisateur.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.rechercherutilisateur.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerRemboursement.resources
+F:\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterrembcritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.cs
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.Designer.cs
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.enregistrercompte.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiver.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiverutilisateur.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenblocquer.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenBloquerUtilisateur.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenConnection.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fendepot.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerClient.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerUtilisateur.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerClient.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenlisterClientCritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercompte.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercomptecritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerpret.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterpretcritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterrembcritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerRemboursement.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertracabilite.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenlistertracabilitecritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerTransaction.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertransactioncritere.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisateurInactif.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisteuractif.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierClient.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierUtilisateur.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenpret.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenPrincipal.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenrechercher.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRechercherClient.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenrechercherpret.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRemboursement.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenretrait.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenvirement.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.rechercherutilisateur.resources
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+C:\Users\william\Desktop\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenChanger.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.cs
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.Designer.cs
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.enregistrercompte.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiver.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiverutilisateur.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenblocquer.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenBloquerUtilisateur.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenChanger.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenConnection.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fendepot.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerClient.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerUtilisateur.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerClient.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenlisterClientCritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercompte.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercomptecritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerpret.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterpretcritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterrembcritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerRemboursement.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertracabilite.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenlistertracabilitecritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerTransaction.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertransactioncritere.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisateurInactif.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisteuractif.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierClient.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierUtilisateur.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenpret.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenPrincipal.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenrechercher.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRechercherClient.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenrechercherpret.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRemboursement.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenretrait.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenvirement.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.rechercherutilisateur.resources
+C:\Users\william\Desktop\MON BUREAU\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.cs
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\FenPrincipal.Designer.cs
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Controleur.dll
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Controleur.pdb
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Dal.pdb
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.enregistrercompte.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiver.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenactiverutilisateur.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenblocquer.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenBloquerUtilisateur.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenChanger.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenConnection.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fendepot.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenEnregistrerUtilisateur.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerClient.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenlisterClientCritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercompte.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListercomptecritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerpret.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterpretcritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlisterrembcritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerRemboursement.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertracabilite.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenlistertracabilitecritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerTransaction.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenlistertransactioncritere.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisateurInactif.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenListerUtilisteuractif.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierClient.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenModifierUtilisateur.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenpret.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenrechercher.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRechercherClient.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.fenrechercherpret.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.FenRemboursement.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenretrait.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Fenvirement.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.rechercherutilisateur.resources
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\ProjetFenetreCodevi\bin\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Controleur.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Controleur.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Dal.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Lancement.resources
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Interface.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Interface.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe.config
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.exe
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.exe
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\ProjetFenetreCodevi.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Controleur.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Domaine.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Interface.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Service.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Dal.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Controleur.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Domaine.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Interface.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Service.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\Dal.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Lancement.resources
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.Properties.Resources.resources
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\obj\Debug\ProjetFenetreCodevi.csproj.GenerateResource.Cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\ProjetFenetreCodevi\bin\Debug\MySql.Data.Entity.EF6.dll

@@ -1,0 +1,32 @@
+drop database gestion_codevi;
+create database gestion_codevi;
+use gestion_codevi;
+
+create table client(code_client varchar(35) primary key, nom varchar(35),prenom varchar(35),sexe varchar(10),adresse varchar(60),telephone varchar(20),cin varchar(25),email varchar(25));
+
+create table compte (nocompte varchar(35) primary key,code_client varchar(35),devise varchar(10),type varchar(25),solde float,date_creation varchar(25),constraint fk_client_compte foreign key(code_client) references client(code_client),etat varchar(20) default 'actif');
+
+create table pret(nocompte varchar(35),code_client varchar(35),montant float,devise varchar(10),date_pret varchar(25),date_remise date,
+constraint fk_compte_pret foreign key(nocompte) references compte(nocompte),
+constraint fk_client_pret foreign key(code_client) references client(code_client));
+
+create table utilisateurphoto(code varchar(20),nom varchar(35),prenom varchar(35),pseudo varchar(25),motdepasse varchar(30),droitacces varchar(15),etatcompte varchar(20),date varchar(20),photo blob);
+create table utilisateur(code varchar(20),nom varchar(35),prenom varchar(35),pseudo varchar(25),motdepasse varchar(30),droitacces varchar(15),etatcompte varchar(20),date varchar(20));
+
+create table indexe_pret(nocompte varchar(35),montant float,devise varchar(10),date_pret varchar(25),date_remise date,date_remboursement varchar(25),utilisateur varchar(45));
+create table transaction(numero varchar(20),description varchar(40),montant float,date_transaction varchar(25),utilisateur varchar(35));
+
+
+insert into utilisateur values('ut-001','syllin','julise','jean','joseph','caissier','activer','2016-12-10'),						
+								('ut-002','petit','william','jean','jose','caissier','activer','2016-12-10'),
+								('ut-003','andou','emanuel','clau','clau','administrateur','desactiver','2017-09-11'),
+							('ut-004','noel','roudy','clau1','clau1','administrateur','activer','2017-09-11'),
+							('ut-005','david','ricardo','emanu','emanu','gestionnaire','activer','2017-09-11');
+					select *from utilisateur;		
+create table tracabilite(numero_operation int NOT NULL AUTO_INCREMENT primary key ,nom_utilisateur varchar(84),operations varchar(80),date_operation varchar(45),heure_operation varchar(90),pc_operation varchar(45));
+create table virement (nocompte1 varchar(35),nocompte2 varchar(35),montant float,date_transaction varchar(25),utilisateur varchar(45));
+
+create table pretarembourser(nocompte varchar(35),code_client varchar(35),montant float,devise varchar(10),date_pret varchar(25),date_remise date,constraint fk_compte_pretarembourser foreign key(nocompte) references compte(nocompte),
+constraint fk_client_pretarembourser foreign key(code_client) references client(code_client));
+
+create table parmois(nocompte varchar(35),montant float,constraint fk_compte_parmois foreign key(nocompte) references compte(nocompte));

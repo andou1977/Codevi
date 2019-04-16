@@ -1,0 +1,18 @@
+D:\ExoC#\ProjetFenetreCodevi\Domaine\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\Domaine\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\Domaine\obj\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\Domaine\obj\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Domaine\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Domaine\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Domaine\obj\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Domaine\obj\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Domaine\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Domaine\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Domaine\bin\Debug\Domaine.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Domaine\bin\Debug\Domaine.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Domaine\obj\Debug\Domaine.pdb

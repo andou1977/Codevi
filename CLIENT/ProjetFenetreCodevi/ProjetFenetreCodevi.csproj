@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18B7C736-CB69-4320-9417-6EB284FD5CC3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetFenetreCodevi</RootNamespace>
+    <AssemblyName>ProjetFenetreCodevi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ProjetFenetreCodevi.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logocodevi.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="Compte.cs" />
+    <Compile Include="enregistrercompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enregistrercompte.designer.cs">
+      <DependentUpon>enregistrercompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenactiver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenactiver.designer.cs">
+      <DependentUpon>Fenactiver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenactiverutilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenactiverutilisateur.Designer.cs">
+      <DependentUpon>Fenactiverutilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenblocquer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenblocquer.designer.cs">
+      <DependentUpon>Fenblocquer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenBloquerUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenBloquerUtilisateur.Designer.cs">
+      <DependentUpon>FenBloquerUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenChanger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenChanger.Designer.cs">
+      <DependentUpon>FenChanger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fenConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fenConnection.Designer.cs">
+      <DependentUpon>fenConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fendepot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fendepot.designer.cs">
+      <DependentUpon>Fendepot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenEnregistrerClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenEnregistrerClient.Designer.cs">
+      <DependentUpon>FenEnregistrerClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenEnregistrerUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenEnregistrerUtilisateur.designer.cs">
+      <DependentUpon>FenEnregistrerUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerClient.Designer.cs">
+      <DependentUpon>FenListerClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenlisterClientCritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenlisterClientCritere.Designer.cs">
+      <DependentUpon>FenlisterClientCritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListercompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListercompte.Designer.cs">
+      <DependentUpon>FenListercompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListercomptecritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListercomptecritere.Designer.cs">
+      <DependentUpon>FenListercomptecritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerpret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerpret.Designer.cs">
+      <DependentUpon>FenListerpret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenlisterpretcritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenlisterpretcritere.Designer.cs">
+      <DependentUpon>Fenlisterpretcritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenlisterrembcritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenlisterrembcritere.Designer.cs">
+      <DependentUpon>Fenlisterrembcritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerRemboursement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerRemboursement.Designer.cs">
+      <DependentUpon>FenListerRemboursement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenlistertracabilite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenlistertracabilite.Designer.cs">
+      <DependentUpon>Fenlistertracabilite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fenlistertracabilitecritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fenlistertracabilitecritere.Designer.cs">
+      <DependentUpon>fenlistertracabilitecritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerTransaction.Designer.cs">
+      <DependentUpon>FenListerTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenlistertransactioncritere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenlistertransactioncritere.Designer.cs">
+      <DependentUpon>Fenlistertransactioncritere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerUtilisateurInactif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerUtilisateurInactif.Designer.cs">
+      <DependentUpon>FenListerUtilisateurInactif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerUtilisteuractif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerUtilisteuractif.Designer.cs">
+      <DependentUpon>FenListerUtilisteuractif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenModifierClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenModifierClient.Designer.cs">
+      <DependentUpon>FenModifierClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenModifierUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenModifierUtilisateur.designer.cs">
+      <DependentUpon>FenModifierUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenpret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenpret.designer.cs">
+      <DependentUpon>Fenpret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenPrincipal.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FenPrincipal.Designer.cs">
+      <DependentUpon>FenPrincipal.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Fenrechercher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenrechercher.designer.cs">
+      <DependentUpon>Fenrechercher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenRechercherClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenRechercherClient.Designer.cs">
+      <DependentUpon>FenRechercherClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fenrechercherpret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fenrechercherpret.designer.cs">
+      <DependentUpon>fenrechercherpret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenRemboursement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenRemboursement.Designer.cs">
+      <DependentUpon>FenRemboursement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fenretrait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fenretrait.designer.cs">
+      <DependentUpon>fenretrait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fenvirement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fenvirement.designer.cs">
+      <DependentUpon>Fenvirement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pret.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rechercherutilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rechercherutilisateur.designer.cs">
+      <DependentUpon>rechercherutilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilisateur.cs" />
+    <EmbeddedResource Include="enregistrercompte.resx">
+      <DependentUpon>enregistrercompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenactiver.resx">
+      <DependentUpon>Fenactiver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenactiverutilisateur.resx">
+      <DependentUpon>Fenactiverutilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenblocquer.resx">
+      <DependentUpon>Fenblocquer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenBloquerUtilisateur.resx">
+      <DependentUpon>FenBloquerUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenChanger.resx">
+      <DependentUpon>FenChanger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fenConnection.resx">
+      <DependentUpon>fenConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fendepot.resx">
+      <DependentUpon>Fendepot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenEnregistrerClient.resx">
+      <DependentUpon>FenEnregistrerClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenEnregistrerUtilisateur.resx">
+      <DependentUpon>FenEnregistrerUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerClient.resx">
+      <DependentUpon>FenListerClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenlisterClientCritere.resx">
+      <DependentUpon>FenlisterClientCritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListercompte.resx">
+      <DependentUpon>FenListercompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListercomptecritere.resx">
+      <DependentUpon>FenListercomptecritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerpret.resx">
+      <DependentUpon>FenListerpret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenlisterpretcritere.resx">
+      <DependentUpon>Fenlisterpretcritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenlisterrembcritere.resx">
+      <DependentUpon>Fenlisterrembcritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerRemboursement.resx">
+      <DependentUpon>FenListerRemboursement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenlistertracabilite.resx">
+      <DependentUpon>Fenlistertracabilite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fenlistertracabilitecritere.resx">
+      <DependentUpon>fenlistertracabilitecritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerTransaction.resx">
+      <DependentUpon>FenListerTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenlistertransactioncritere.resx">
+      <DependentUpon>Fenlistertransactioncritere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerUtilisateurInactif.resx">
+      <DependentUpon>FenListerUtilisateurInactif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerUtilisteuractif.resx">
+      <DependentUpon>FenListerUtilisteuractif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenModifierClient.resx">
+      <DependentUpon>FenModifierClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenModifierUtilisateur.resx">
+      <DependentUpon>FenModifierUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenpret.resx">
+      <DependentUpon>Fenpret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenPrincipal.resx">
+      <DependentUpon>FenPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenrechercher.resx">
+      <DependentUpon>Fenrechercher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenRechercherClient.resx">
+      <DependentUpon>FenRechercherClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fenrechercherpret.resx">
+      <DependentUpon>fenrechercherpret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenRemboursement.resx">
+      <DependentUpon>FenRemboursement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fenretrait.resx">
+      <DependentUpon>fenretrait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fenvirement.resx">
+      <DependentUpon>Fenvirement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rechercherutilisateur.resx">
+      <DependentUpon>rechercherutilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logocodevi.ico" />
+    <None Include="Resources\libon.gif" />
+    <None Include="Resources\image.png" />
+    <None Include="Resources\index15.jpg" />
+    <None Include="Resources\index14.png" />
+    <None Include="Resources\index12.png" />
+    <None Include="Resources\index7.jpg" />
+    <None Include="Resources\index.jpg" />
+    <None Include="Resources\index11.jpg" />
+    <None Include="Resources\search_06_2561.png" />
+    <None Include="Resources\images4.jpg" />
+    <None Include="Resources\search_06_256.png" />
+    <None Include="Resources\images3.jpg" />
+    <None Include="Resources\index1.jpg" />
+    <None Include="Resources\index41.jpg" />
+    <None Include="Resources\codeviacceuil.png" />
+    <None Include="Resources\codeviacceuil1.png" />
+    <None Include="Resources\codeviacceuil2.png" />
+    <None Include="Resources\bloquer.jpg" />
+    <Content Include="Resources\codevilogo.png" />
+    <None Include="Resources\ordering_256.png" />
+    <None Include="Resources\codevilogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domaine\Domaine.csproj">
+      <Project>{71750af7-dd9a-41fb-bafd-89de8992e215}</Project>
+      <Name>Domaine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface\Interface.csproj">
+      <Project>{65073d6a-41f6-42c1-9676-c36517b979fd}</Project>
+      <Name>Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Service\Service.csproj">
+      <Project>{2ed9821d-0c89-44b9-b081-9db3e4073c4d}</Project>
+      <Name>Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

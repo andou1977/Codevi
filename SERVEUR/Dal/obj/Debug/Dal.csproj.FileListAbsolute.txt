@@ -1,0 +1,23 @@
+D:\ExoC#\ProjetFenetreCodevi\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\ExoC#\ProjetFenetreCodevi\Dal\bin\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\Dal\bin\Debug\Dal.pdb
+D:\ExoC#\ProjetFenetreCodevi\Dal\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\Dal\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\Dal\obj\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\Dal\obj\Debug\Dal.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Dal.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Domaine.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Domaine.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\obj\Debug\Dal.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Dal.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Dal.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Domaine.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\Domaine.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\SERVEUR\Dal\bin\Debug\MySql.Data.Entity.EF6.xml

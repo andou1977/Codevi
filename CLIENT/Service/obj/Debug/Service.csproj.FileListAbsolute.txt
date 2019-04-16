@@ -1,0 +1,19 @@
+D:\ExoC#\ProjetFenetreCodevi\Service\bin\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\Service\bin\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\Service\obj\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\Service\obj\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Service\bin\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Service\bin\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Service\obj\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\SERVEUR\Service\obj\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Service\bin\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Service\bin\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.dll
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.pdb
+D:\ExoC#\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Service\bin\Debug\Service.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Service\bin\Debug\Service.pdb
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.dll
+E:\document important\mes projets et devoir\projet 4eme annee\ProjetFenetreCodevi\CLIENT\Service\obj\Debug\Service.pdb
